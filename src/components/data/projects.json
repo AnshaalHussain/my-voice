@@ -1,0 +1,56 @@
+[
+
+
+{
+
+  "img": "../../images/card-img/operations.jpg",
+  "alt": "Operations",
+  "name": "Operations",
+  "bg-color": "bg-indigo-500",
+  "border-color": "border-indigo-500"
+},
+{
+
+  "img": "../../images/card-img/marketing.jpg",
+  "alt": "Marketing & Promotions",
+  "name": "Marketing & Promotions",
+  "bg-color": "bg-amber-500"
+},
+{
+
+  "img": "../../images/card-img/editorial.jpg",
+  "alt": "Editorial & Design",
+  "name": "Editorial & Design",
+  "bg-color": "bg-green-500"
+},
+{
+
+  "img": "../../images/card-img/digital-design.jpg",
+  "alt": "Digital Media",
+  "name": "Digital Media",
+  "bg-color": "bg-sky-500"
+},
+{
+
+  "img": "../../images/card-img/web-app.jpg",
+  "alt": "Web & App",
+  "name": "Web & App",
+  "bg-color": "bg-red-500"
+},
+{
+
+  "img": "../../images/card-img/event-planning.jpg",
+  "alt": "Event Planning",
+  "name": "Event Planning",
+  "bg-color": "bg-neutral-500"
+},
+{
+
+  "img": "../../images/card-img/finance.jpg",
+  "alt": "Finance",
+  "name": "Finanace",
+  "bg-color": "bg-teal-500"
+}
+
+
+]
